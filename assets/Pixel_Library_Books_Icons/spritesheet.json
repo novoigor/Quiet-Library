@@ -1,0 +1,396 @@
+{
+ "meta": {
+  "name": "Pixel Library & Books Icons",
+  "tile_size": 32,
+  "columns": 10,
+  "rows": 5,
+  "image": "spritesheet.png",
+  "count": 48
+ },
+ "frames": {
+  "book_red": {
+   "x": 0,
+   "y": 0,
+   "w": 32,
+   "h": 32,
+   "category": "books",
+   "index": 0
+  },
+  "book_blue": {
+   "x": 32,
+   "y": 0,
+   "w": 32,
+   "h": 32,
+   "category": "books",
+   "index": 1
+  },
+  "book_green": {
+   "x": 64,
+   "y": 0,
+   "w": 32,
+   "h": 32,
+   "category": "books",
+   "index": 2
+  },
+  "open_book": {
+   "x": 96,
+   "y": 0,
+   "w": 32,
+   "h": 32,
+   "category": "books",
+   "index": 3
+  },
+  "book_stack": {
+   "x": 128,
+   "y": 0,
+   "w": 32,
+   "h": 32,
+   "category": "books",
+   "index": 4
+  },
+  "spellbook": {
+   "x": 160,
+   "y": 0,
+   "w": 32,
+   "h": 32,
+   "category": "books",
+   "index": 5
+  },
+  "old_tome": {
+   "x": 192,
+   "y": 0,
+   "w": 32,
+   "h": 32,
+   "category": "books",
+   "index": 6
+  },
+  "notebook": {
+   "x": 224,
+   "y": 0,
+   "w": 32,
+   "h": 32,
+   "category": "books",
+   "index": 7
+  },
+  "diary_lock": {
+   "x": 256,
+   "y": 0,
+   "w": 32,
+   "h": 32,
+   "category": "books",
+   "index": 8
+  },
+  "scroll": {
+   "x": 288,
+   "y": 0,
+   "w": 32,
+   "h": 32,
+   "category": "books",
+   "index": 9
+  },
+  "map_rolled": {
+   "x": 0,
+   "y": 32,
+   "w": 32,
+   "h": 32,
+   "category": "books",
+   "index": 10
+  },
+  "ebook_reader": {
+   "x": 32,
+   "y": 32,
+   "w": 32,
+   "h": 32,
+   "category": "books",
+   "index": 11
+  },
+  "bookmark_red": {
+   "x": 64,
+   "y": 32,
+   "w": 32,
+   "h": 32,
+   "category": "marks_writing",
+   "index": 12
+  },
+  "bookmark_blue": {
+   "x": 96,
+   "y": 32,
+   "w": 32,
+   "h": 32,
+   "category": "marks_writing",
+   "index": 13
+  },
+  "ribbon_bookmark": {
+   "x": 128,
+   "y": 32,
+   "w": 32,
+   "h": 32,
+   "category": "marks_writing",
+   "index": 14
+  },
+  "quill_pen": {
+   "x": 160,
+   "y": 32,
+   "w": 32,
+   "h": 32,
+   "category": "marks_writing",
+   "index": 15
+  },
+  "inkwell": {
+   "x": 192,
+   "y": 32,
+   "w": 32,
+   "h": 32,
+   "category": "marks_writing",
+   "index": 16
+  },
+  "fountain_pen": {
+   "x": 224,
+   "y": 32,
+   "w": 32,
+   "h": 32,
+   "category": "marks_writing",
+   "index": 17
+  },
+  "pencil": {
+   "x": 256,
+   "y": 32,
+   "w": 32,
+   "h": 32,
+   "category": "marks_writing",
+   "index": 18
+  },
+  "sticky_notes": {
+   "x": 288,
+   "y": 32,
+   "w": 32,
+   "h": 32,
+   "category": "marks_writing",
+   "index": 19
+  },
+  "reading_glasses": {
+   "x": 0,
+   "y": 64,
+   "w": 32,
+   "h": 32,
+   "category": "tools",
+   "index": 20
+  },
+  "magnifier": {
+   "x": 32,
+   "y": 64,
+   "w": 32,
+   "h": 32,
+   "category": "tools",
+   "index": 21
+  },
+  "library_card": {
+   "x": 64,
+   "y": 64,
+   "w": 32,
+   "h": 32,
+   "category": "tools",
+   "index": 22
+  },
+  "barcode_label": {
+   "x": 96,
+   "y": 64,
+   "w": 32,
+   "h": 32,
+   "category": "tools",
+   "index": 23
+  },
+  "date_stamp": {
+   "x": 128,
+   "y": 64,
+   "w": 32,
+   "h": 32,
+   "category": "tools",
+   "index": 24
+  },
+  "ink_pad": {
+   "x": 160,
+   "y": 64,
+   "w": 32,
+   "h": 32,
+   "category": "tools",
+   "index": 25
+  },
+  "card_catalog": {
+   "x": 192,
+   "y": 64,
+   "w": 32,
+   "h": 32,
+   "category": "tools",
+   "index": 26
+  },
+  "audiobook_headphones": {
+   "x": 224,
+   "y": 64,
+   "w": 32,
+   "h": 32,
+   "category": "tools",
+   "index": 27
+  },
+  "bookshelf": {
+   "x": 256,
+   "y": 64,
+   "w": 32,
+   "h": 32,
+   "category": "furniture",
+   "index": 28
+  },
+  "ladder": {
+   "x": 288,
+   "y": 64,
+   "w": 32,
+   "h": 32,
+   "category": "furniture",
+   "index": 29
+  },
+  "book_cart": {
+   "x": 0,
+   "y": 96,
+   "w": 32,
+   "h": 32,
+   "category": "furniture",
+   "index": 30
+  },
+  "reading_desk": {
+   "x": 32,
+   "y": 96,
+   "w": 32,
+   "h": 32,
+   "category": "furniture",
+   "index": 31
+  },
+  "armchair": {
+   "x": 64,
+   "y": 96,
+   "w": 32,
+   "h": 32,
+   "category": "furniture",
+   "index": 32
+  },
+  "bookend": {
+   "x": 96,
+   "y": 96,
+   "w": 32,
+   "h": 32,
+   "category": "furniture",
+   "index": 33
+  },
+  "desk_lamp": {
+   "x": 128,
+   "y": 96,
+   "w": 32,
+   "h": 32,
+   "category": "lighting_decor",
+   "index": 34
+  },
+  "candle": {
+   "x": 160,
+   "y": 96,
+   "w": 32,
+   "h": 32,
+   "category": "lighting_decor",
+   "index": 35
+  },
+  "oil_lamp": {
+   "x": 192,
+   "y": 96,
+   "w": 32,
+   "h": 32,
+   "category": "lighting_decor",
+   "index": 36
+  },
+  "globe": {
+   "x": 224,
+   "y": 96,
+   "w": 32,
+   "h": 32,
+   "category": "lighting_decor",
+   "index": 37
+  },
+  "hourglass": {
+   "x": 256,
+   "y": 96,
+   "w": 32,
+   "h": 32,
+   "category": "lighting_decor",
+   "index": 38
+  },
+  "wall_clock": {
+   "x": 288,
+   "y": 96,
+   "w": 32,
+   "h": 32,
+   "category": "lighting_decor",
+   "index": 39
+  },
+  "bust_statue": {
+   "x": 0,
+   "y": 128,
+   "w": 32,
+   "h": 32,
+   "category": "lighting_decor",
+   "index": 40
+  },
+  "plant_pot": {
+   "x": 32,
+   "y": 128,
+   "w": 32,
+   "h": 32,
+   "category": "lighting_decor",
+   "index": 41
+  },
+  "coffee_cup": {
+   "x": 64,
+   "y": 128,
+   "w": 32,
+   "h": 32,
+   "category": "extras",
+   "index": 42
+  },
+  "tea_set": {
+   "x": 96,
+   "y": 128,
+   "w": 32,
+   "h": 32,
+   "category": "extras",
+   "index": 43
+  },
+  "quiet_sign": {
+   "x": 128,
+   "y": 128,
+   "w": 32,
+   "h": 32,
+   "category": "extras",
+   "index": 44
+  },
+  "bookworm": {
+   "x": 160,
+   "y": 128,
+   "w": 32,
+   "h": 32,
+   "category": "extras",
+   "index": 45
+  },
+  "award_ribbon": {
+   "x": 192,
+   "y": 128,
+   "w": 32,
+   "h": 32,
+   "category": "extras",
+   "index": 46
+  },
+  "graduation_cap": {
+   "x": 224,
+   "y": 128,
+   "w": 32,
+   "h": 32,
+   "category": "extras",
+   "index": 47
+  }
+ }
+}
